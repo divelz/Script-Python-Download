@@ -93,4 +93,4 @@ inicio(
     lambda: opcs(3)
 )
 
-#* De: Francisco Velez
+#* Author: Francisco Velez
