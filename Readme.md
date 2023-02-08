@@ -1,6 +1,6 @@
 # App to download Youtube Videos
 
-Project #3 with Python. Download videos from youtube.
+Project #1 with Python. Download videos from youtube.
 
 ## To use the code
 When using the code it prints the options it has,
